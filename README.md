@@ -141,11 +141,3 @@ These can be configured per app in the Settings screen.
 - No analytics or tracking
 - No account required
 
-## License
-
-[Specify your license here]
-
-## Contributing
-
-[Add contributing guidelines if needed]
-
